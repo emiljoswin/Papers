@@ -31,3 +31,15 @@ The notes may contain the author's points, my points, my questions and some idea
 - [ ] https://arxiv.org/abs/1904.04514 - High-Resolution Representations for Labeling Pixels and Regions
 
 - [ ] https://arxiv.org/abs/1406.4729 - Spacial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
+
+
+## 4. Transformers 
+- [x] https://arxiv.org/abs/2001.04451 Reformer: The Efficient Transformer
+
+- [x] https://arxiv.org/abs/2002.12327 A Primer in Bertology
+
+- [x] https://arxiv.org/abs/1906.02715 Visualizing The Geometry of BERT
+
+
+## 5. RL
+- [x] https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf (DQN): Playing Atari with Deep Reinforcement Learning 
