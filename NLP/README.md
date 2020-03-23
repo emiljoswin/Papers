@@ -1,3 +1,5 @@
+# TOREAD
+
 1. Label Smoothing - 
     > https://arxiv.org/pdf/1512.00567.pdf - Rethinking Inception Architecture for CV 
 
