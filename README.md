@@ -34,12 +34,16 @@ The notes may contain the author's points, my points, my questions and some idea
 
 
 ## 4. Transformers 
-- [x] https://arxiv.org/abs/2001.04451 Reformer: The Efficient Transformer - Train more using LSH based attention computation, save space of FFN using Reversible Residual Networks.
+- [x] https://arxiv.org/abs/2001.04451 Reformer: The Efficient Transformer -   
+`Train more using LSH based attention computation, save space of FFN using Reversible Residual Networks.`
 
-- [x] https://arxiv.org/abs/2002.12327 A Primer in Bertology: A great paper summarizing major developments over BERT
+- [x] https://arxiv.org/abs/2002.12327 A Primer in Bertology:  
+`A great paper summarizing major developments over BERT`
 
-- [x] https://arxiv.org/abs/1906.02715 Visualizing The Geometry of BERT - What latent representations capture.
+- [x] https://arxiv.org/abs/1906.02715 Visualizing The Geometry of BERT -  
+`What latent representations capture.`
 
 
 ## 5. RL
-- [x] https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf (DQN): Playing Atari with Deep Reinforcement Learning 
+- [x] https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf: Playing Atari with Deep Reinforcement Learning   
+`DQN Paper`
