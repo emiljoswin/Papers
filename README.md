@@ -1,8 +1,33 @@
 # Papers
-This is a collection of papers that I have read deeply. I believe in taking handwritten notes which enables me to think 
-and articulate the authors points very well. Also, it helps me draw out the authors ideas and sometimes couple them mine.
+This is a collection of papers that I have read deeply. I believe in taking handwritten notes because it enables me to think and articulate the authors points very well. Also, you can quickly represent an idea in the form of drawings.
 
-The notes contains the authors points, my counter points, my questions and some ideas and criticisms.
+The notes may contain the author's points, my points, my questions and some ideas and criticisms.
 
-Reading papers have helped me gain clarity over a lot of ideas that I thought I knew. So, one day I decided to keep
-permament record of my notes on the internet and hence this repo.
+# TOREAD
+
+## 1. Label Smoothing - 
+- [ ]  https://arxiv.org/pdf/1512.00567.pdf - Rethinking Inception Architecture for CV 
+
+- [ ] https://arxiv.org/abs/1906.02629 - When does label-smoothing help
+
+
+## 2. Learned Positional Embeddings -
+- [ ] https://arxiv.org/pdf/1705.03122.pdf - Convolutional Sequence to Sequence Learning
+
+- [ ] https://arxiv.org/pdf/1705.03122.pdf - Using Output Embeddings to Improve Language Models
+
+- [ ] http://u.cs.biu.ac.il/~yogo/nnlp.pdf - A Primer on Neural Network Models for NLP.
+
+- [ ] https://arxiv.org/abs/1703.03906 - Massive Exploration of Neural Machine Translation Architectures.
+
+- [ ] https://arxiv.org/abs/1607.06450 - Layer Normalization
+
+
+## 3. Images of Different Dimensions - 
+- [ ] https://arxiv.org/abs/1411.4038 - Fully Convolutional Networks for Semantic Segmentation 
+
+- [ ] https://arxiv.org/abs/1612.03144 - Feature Pyramid Networks for Object Detection
+
+- [ ] https://arxiv.org/abs/1904.04514 - High-Resolution Representations for Labeling Pixels and Regions
+
+- [ ] https://arxiv.org/abs/1406.4729 - Spacial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
