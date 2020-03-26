@@ -43,6 +43,9 @@ The notes may contain the author's points, my points, my questions and some idea
 - [x] https://arxiv.org/abs/1906.02715 Visualizing The Geometry of BERT -  
 `What latent representations in BERT capture.`
 
+-[ ] https://arxiv.org/abs/1911.05507 Compressive Transformers for Long-Range Sequence Modelling
+
+
 
 ## 5. RL
 - [x] https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf: Playing Atari with Deep Reinforcement Learning   
