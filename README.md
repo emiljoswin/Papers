@@ -13,13 +13,9 @@ The notes may contain the author's points, my points, my questions and some idea
 
 ## 2. Learned Positional Embeddings -
 - [ ] https://arxiv.org/pdf/1705.03122.pdf - Convolutional Sequence to Sequence Learning
-
 - [ ] https://arxiv.org/pdf/1705.03122.pdf - Using Output Embeddings to Improve Language Models
-
 - [ ] http://u.cs.biu.ac.il/~yogo/nnlp.pdf - A Primer on Neural Network Models for NLP.
-
 - [ ] https://arxiv.org/abs/1703.03906 - Massive Exploration of Neural Machine Translation Architectures.
-
 - [ ] https://arxiv.org/abs/1607.06450 - Layer Normalization
 
 
